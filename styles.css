@@ -1,0 +1,43 @@
+body {
+  background-color: blue;
+}
+#hero_section {
+  height: 48vh;
+
+  display: flex;
+}
+.sec1 {
+  width: 48%;
+  height: 100%;
+}
+#fname {
+  font-size: 450%;
+}
+#name {
+  text-align: center;
+}
+#saka {
+  width: 75%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+#about_me{
+  text-align: center;
+  margin-top: 3%;
+  padding: 3%;
+}
+#skills{
+  text-align: center;
+}
+#contact me{
+margin: auto;
+  text-align: center;
+}
+form{
+  border: 1px solid black;
+  width: 50%;
+  margin-left: 25%;
+  padding: 2%;
+  border-radius: 3% 3%;
+}
